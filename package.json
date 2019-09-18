@@ -1,13 +1,1 @@
-{
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
-  "main": "setup.js",
-  "scripts": {
-    "start": "node setup.js"
-  },
-  "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
-  }
-}
+deleted
