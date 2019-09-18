@@ -1,1 +1,1 @@
-worker: node setup.js
+deleted
